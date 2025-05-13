@@ -9696,11 +9696,7 @@
                 "_context": "api:v2/softwarevetting/$metadata",
                 "_self": "api:v2/softwarevetting/0"
             },
-            "Ext_BReqServerTeamVettingOutcome": {
-                "Name": " ",
-                "_context": "api:v2/softwarevetting/$metadata",
-                "_self": "api:v2/softwarevetting/0"
-            },
+            "Ext_BReqServerTeamVettingOutcome": null,
             "Check1": false,
             "Check2": false,
             "Check3": false,
@@ -9798,11 +9794,7 @@
                 "_context": "api:v2/softwarevetting/$metadata",
                 "_self": "api:v2/softwarevetting/1292"
             },
-            "Ext_BReqServerTeamVettingOutcome": {
-                "Name": "Approved",
-                "_context": "api:v2/softwarevetting/$metadata",
-                "_self": "api:v2/softwarevetting/1292"
-            },
+            "Ext_BReqServerTeamVettingOutcome": null,
             "Check1": false,
             "Check2": false,
             "Check3": false,
